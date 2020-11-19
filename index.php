@@ -45,15 +45,13 @@
 
 
 
-<link href="https://fonts.googleapis.com/css?family=Share+Tech+Mono" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css?family=Share+Tech+Mono" rel="stylesheet"
 
 
 
 </head>
 
 
-
-<body style="color: #fff; margin:0;font: normal 14px/20px Share Tech Mono, Helvetica, sans-serif; height:100%; background-color: #000000;"/>
 
 
 
